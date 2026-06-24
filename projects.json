@@ -155,5 +155,12 @@
     "author": "Florian Oberhumer",
     "year": "2026_SS",
     "status": 1
+  },
+  {
+    "title": "JumpnRun",
+    "folder": "JumpnRun",
+    "author": "Stefan Wenzlhumer",
+    "year": "2026_SS",
+    "status": 1
   }
 ]
